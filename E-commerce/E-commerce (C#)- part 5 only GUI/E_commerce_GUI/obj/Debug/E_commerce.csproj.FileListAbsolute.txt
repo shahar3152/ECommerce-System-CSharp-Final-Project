@@ -1,0 +1,34 @@
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\bin\Debug\E_commerce.exe.config
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\bin\Debug\E_commerce.exe
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\bin\Debug\E_commerce.pdb
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.csproj.AssemblyReference.cache
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.AddBuyer.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.AddSeller.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.E_Commerce.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.Properties.Resources.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.csproj.GenerateResource.cache
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.csproj.CoreCompileInputs.cache
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.exe
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.pdb
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.ShowSellersInfo.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.ShowBuyersInfo.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.AddProductToSeller.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.LogIn.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5\E_commerce_GUI\obj\Debug\E_commerce.AddProductToCart.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\bin\Debug\E_commerce.exe.config
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\bin\Debug\E_commerce.exe
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\bin\Debug\E_commerce.pdb
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.csproj.AssemblyReference.cache
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.AddBuyer.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.AddProductToCart.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.AddProductToSeller.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.AddSeller.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.LogIn.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.E_Commerce.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.Properties.Resources.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.ShowBuyersInfo.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.ShowSellersInfo.resources
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.csproj.GenerateResource.cache
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.csproj.CoreCompileInputs.cache
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.exe
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-commerce (C#)- part 5 only GUI\E_commerce_GUI\obj\Debug\E_commerce.pdb

@@ -1,0 +1,7 @@
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-Commerce (C#)- part 5 only files\E_commerce\bin\Debug\E_commerce.exe.config
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-Commerce (C#)- part 5 only files\E_commerce\bin\Debug\E_commerce.exe
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-Commerce (C#)- part 5 only files\E_commerce\bin\Debug\E_commerce.pdb
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-Commerce (C#)- part 5 only files\E_commerce\obj\Debug\E_commerce.csproj.AssemblyReference.cache
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-Commerce (C#)- part 5 only files\E_commerce\obj\Debug\E_commerce.csproj.CoreCompileInputs.cache
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-Commerce (C#)- part 5 only files\E_commerce\obj\Debug\E_commerce.exe
+C:\Users\shaha\OneDrive\Desktop\shahar\computer science\first year\simster 2\#C\E-Commerce (C#)- part 5 only files\E_commerce\obj\Debug\E_commerce.pdb
